@@ -1,6 +1,7 @@
 #ifndef OPTALG_H_INCLUDED
 #define OPTALG_H_INCLUDED
 
+#include <iostream>
 #include <vector>
 #include <cassert>
 #include <random>
